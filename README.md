@@ -10,8 +10,8 @@ image-split is written in Java and uses the AWT API (included in the java.awt pa
 # Demo
 Below are three different demos of the program, each with a different image. They are sped up so that you can see how the image eventually looks.
 
-![](https://anish-shanbhag.github.io/image-split/demo/image-split-demo-1.gif)
+![](demo/image-split-demo-1.gif)
 
-![](https://anish-shanbhag.github.io/image-split/demo/image-split-demo-2.gif)
+![](demo/image-split-demo-2.gif)
 
-![](https://anish-shanbhag.github.io/image-split/demo/image-split-demo-3.gif)
+![](demo/image-split-demo-3.gif)
